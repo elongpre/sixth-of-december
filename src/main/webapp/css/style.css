@@ -1,0 +1,30 @@
+body {
+	background-image: url("/images/wedding_backdrop_half.jpg");
+	background-size: cover;
+	min-height: 90vh;
+}
+
+h1.site_header {
+	margin: 0px 0px 0px 0px;
+	color: black;
+	font-size: 32px;
+  font-family: 'Arizonia', cursive;
+}
+
+.outer_block {
+	max-width: 85%;
+	min-height: 90vh;
+	background-color: darkseagreen;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: verdana;
+	font-size: 12px;
+	padding: 10px 10px 10px 10px;
+}
+.site_header {
+  background-color: lightslategrey;
+}
+.site_body {
+	background-color: lightsteelblue;
+	min-height: 90vh;
+}

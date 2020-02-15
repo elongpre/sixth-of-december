@@ -1,0 +1,19 @@
+<style>
+a.header:link, a.header:visited {
+  color: black;
+  font-size: 16px;
+  font-family: 'Comfortaa', cursive;
+  text-decoration: none;
+}
+a.header:hover {
+  color: black;
+  font-size: 16px;
+  font-family: 'Comfortaa', cursive;
+  text-decoration: underline;
+}
+<% Object site_page = request.getAttribute("site_page"); %>
+a.header.<%= site_page %>:link, a.header.<%= site_page %>:visited {
+  font-weight: bold;
+  text-decoration: underline;
+}
+</style>

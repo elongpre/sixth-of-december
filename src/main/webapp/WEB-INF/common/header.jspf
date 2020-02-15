@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+    <link href="css/style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Arizonia|Comfortaa&display=swap" rel="stylesheet">
+    <%@ include file="header_style.jspf" %>
+    <title>Oceanside Beach House</title>
+  </head>
+
+  <body>
+    <div class="outer_block">
+      <div class="site_header"> 
+        <h1 class="site_header">Sage and Evan's Beach House Wedding</h1>
+        <table>
+          <tr>
+            <td><a class="header landing" href='/landing'>Home</a></td>
+            <td><a class="header location" href='/location'>Location</a></td>
+          </tr>
+        </table>
+      </div>
