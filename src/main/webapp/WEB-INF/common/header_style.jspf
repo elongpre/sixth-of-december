@@ -1,13 +1,13 @@
 <style>
 a.header:link, a.header:visited {
   color: black;
-  font-size: 16px;
+  font-size: 32px;
   font-family: 'Comfortaa', cursive;
   text-decoration: none;
 }
 a.header:hover {
   color: black;
-  font-size: 16px;
+  font-size: 32px;
   font-family: 'Comfortaa', cursive;
   text-decoration: underline;
 }

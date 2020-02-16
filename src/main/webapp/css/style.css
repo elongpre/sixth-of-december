@@ -7,9 +7,11 @@ body {
 h1.site_header {
 	margin: 0px 0px 0px 0px;
 	color: black;
-	font-size: 32px;
+	font-size: 75px;
   font-family: 'Arizonia', cursive;
 }
+h1.cursive { font-family: 'Arizonia', cursive; }
+h1.simple  { font-family: 'Comfortaa', cursive; }
 
 .outer_block {
 	max-width: 85%;
