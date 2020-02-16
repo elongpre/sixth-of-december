@@ -10,6 +10,7 @@
 
   <body>
     <div class="top_backdrop"></div>
+    <div class="right_backdrop"></div>
     <div class="outer_block">
       <div class="site_header"> 
         <h1 class="site_header">Sage and Evan's Beach House Wedding</h1>
