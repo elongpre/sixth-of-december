@@ -9,13 +9,15 @@
   </head>
 
   <body>
+    <div class="top_backdrop"></div>
     <div class="outer_block">
       <div class="site_header"> 
         <h1 class="site_header">Sage and Evan's Beach House Wedding</h1>
         <table>
           <tr>
-            <td><a class="header landing" href='/landing'>Home</a></td>
-            <td><a class="header location" href='/location'>Location</a></td>
+            <td class="header_tab"><a class="header landing" href='/landing'>Home</a></td>
+            <td class="header_tab"><a class="header location" href='/location'>Location</a></td>
+            <td class="header_tab"><a class="header schedule" href='/schedule'>Schedule</a></td>
           </tr>
         </table>
       </div>
