@@ -54,6 +54,7 @@ td.header_tab {
 	padding: 10px 10px 10px 10px;
 }
 .site_header {
+	margin-left: 20px;
 }
 .site_body {
 	min-height: 90vh;
@@ -67,5 +68,5 @@ td.header_tab {
 	font-size: 20px;
 	font-family: 'Comfortaa', cursive;
 	max-width: 80%;
-	margin: auto;
+	margin: 10px auto 10px auto;
 }
