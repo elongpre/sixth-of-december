@@ -5,7 +5,7 @@
   </div>
   <table>
     <tr>
-      <td><h1>Sage and Evan</h1></td>
+      <td><h1>Sage and Evan!</h1></td>
     </tr>
     <tr>
       <td>5th - 9th of December, 2020</td>
