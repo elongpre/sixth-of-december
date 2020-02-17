@@ -22,9 +22,9 @@
      <p>If you bring a car:</p>
      <p>You <i>might</i> be able to find street parking in the neighborhood near the wedding beach house.
         You <i>might</i> be able to park at a nearby park, such as Buccaneer Beach Park or Lions Club Park
-        (wow I said park a lot in that sentence). You <i>might</i> be able to park at the Moreno Street Park & Ride bus stop.
+        (wow I said park a lot in that sentence). You <i>might</i> be able to park at the Moreno Street Park &amp; Ride bus stop.
         Whatever you do, you should definitely make a plan about where you're going to look for parking <b><i>before</i></b> you 
-        actually get to Oceanside, because Evan & Sage are not familiar with the area and will not be able to help you on the day of your arrival.</p>
+        actually get to Oceanside, because Evan &amp; Sage are not familiar with the area and will not be able to help you on the day of your arrival.</p>
      <p> ALSO (disclaimer): We are not taking any responsibility for anything that happens to you, your car, or your stuff if you take any of these suggestions. 
          We've never tried any of them for ourselves; we are just informing you of things we might try if we brought a car to this party that 
          has no parking. So PLEASE use your best judgment, read all the street signs, don't break any laws, and get to our wedding safely :)</p>
