@@ -19,6 +19,7 @@
             <td class="header_tab"><a class="header landing" href='/landing'>Home</a></td>
             <td class="header_tab"><a class="header location" href='/location'>Location</a></td>
             <td class="header_tab"><a class="header schedule" href='/schedule'>Schedule</a></td>
+            <td class="header_tab"><a class="header rsvp" href='/rsvp'>RSVP</a></td>
           </tr>
         </table>
       </div>

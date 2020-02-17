@@ -13,6 +13,10 @@ h1.site_header {
 td.header_tab {
 	padding: 20px;
 }
+td.rsvp_td {
+	padding-right: 20px;
+	vertical-align: top;
+}
 
 .top_backdrop {
 	height: 300px;
@@ -69,4 +73,7 @@ td.header_tab {
 	font-family: 'Comfortaa', cursive;
 	max-width: 80%;
 	margin: 10px auto 10px auto;
+}
+.vertical_line {
+	border-left: 3px double black;
 }
