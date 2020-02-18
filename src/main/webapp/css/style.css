@@ -1,79 +1,66 @@
 body {
 	background-color: white;
+	background-image: url("/images/top_backdrop.jpeg"), url("/images/bottom_backdrop.jpeg");
+	background-size: 20% auto, 25% auto;
+	background-position: 0% 0%, 100% 100%;
+	background-repeat: no-repeat;
 	min-height: 90vh;
 	margin: 0px;
 }
 
-h1.site_header {
-	color: black;
-	font-size: 75px;
-  font-family: 'Arizonia', cursive;
+td.body_left {
+	width: 12%;
+}
+td.body_center {
+	width: 76%;
+}
+td.body_right {
+	width: 12%;
+  background-image: url("/images/right_backdrop.jpeg");
+  background-position: 100% 25%;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
-td.header_tab {
-	padding: 20px;
-}
-td.rsvp_td {
-	padding-right: 20px;
-	vertical-align: top;
-}
-
-.top_backdrop {
-	height: 300px;
-	background-image: url("/images/top_backdrop.jpeg");
-	background-size: contain;
-	background-repeat: no-repeat;
-}
-.right_backdrop {
-	margin: -100px 0px 0px 0px;
-	height: 600px;
-	width: 200px;
-	max-width: 15%;
-	float: right;
-	background-image: url("/images/right_backdrop.jpeg");
-	background-size: contain;
-	background-repeat: no-repeat;
-}
-.bottom_backdrop {
-	height: 300px;
-	width: 300px;
-	max-width: 75%;
-	float: right;
+td.footer_right {
+	width: 24%;
 	background-image: url("/images/bottom_backdrop.jpeg");
-	background-size: contain;
-	background-repeat: no-repeat;
+  background-position: 100% 25%;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .cursive { font-family: 'Arizonia', cursive; }
 .simple  { font-family: 'Comfortaa', cursive; }
 
 .outer_block {
-	margin: -300px 0px 0px 0px;
-	max-width: 85%;
+	width: 100%;
 	min-height: 90vh;
-	margin-left: auto;
-	margin-right: auto;
-	font-family: verdana;
-	font-size: 12px;
-	padding: 10px 10px 10px 10px;
+	margin: 0 0 0 0;
 }
-.site_header {
-	margin-left: 20px;
-}
+
 .site_body {
 	min-height: 90vh;
+	margin-top: 20px;
+	margin-bottom: 100px;
 }
+
 .site_title {
 	font-size: 48px;
 	font-family: 'Arizonia', cursive;
 	text-align: center;
+	margin: 10px auto 10px auto;
 }
 .site_content {
 	font-size: 20px;
 	font-family: 'Comfortaa', cursive;
-	max-width: 80%;
+	max-width: 90%;
 	margin: 10px auto 10px auto;
 }
 .vertical_line {
-	border-left: 3px double black;
+	border-left: 3px double darkgreen;
+}
+.horizontal_divide {
+	border-bottom: 3px double darkgreen;
+	margin: auto;
 }

@@ -3,23 +3,28 @@
   <head>
     <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/header.css" rel="stylesheet">
+    <link href="css/rsvp.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Arizonia|Comfortaa&display=swap" rel="stylesheet">
     <%@ include file="header_style.jspf" %>
     <title>Oceanside Beach House</title>
   </head>
 
   <body>
-    <div class="top_backdrop"></div>
-    <div class="right_backdrop"></div>
-    <div class="outer_block">
-      <div class="site_header"> 
-        <h1 class="site_header">Sage and Evan's Beach House Wedding</h1>
-        <table>
-          <tr>
-            <td class="header_tab"><a class="header landing" href='/landing'>Home</a></td>
-            <td class="header_tab"><a class="header location" href='/location'>Location</a></td>
-            <td class="header_tab"><a class="header schedule" href='/schedule'>Schedule</a></td>
-            <td class="header_tab"><a class="header rsvp" href='/rsvp'>RSVP</a></td>
-          </tr>
-        </table>
-      </div>
+    <table class="outer_block"><tr>
+      <td class="body_left"></td>
+      <td class="body_center">
+        <div class="site_header"> 
+          <h1 class="site_header">Sage and Evan's Beach House Wedding</h1>
+          <table class="header_tab">
+            <tr>
+              <td class="header_tab"><a class="header landing" href='/landing'>Home</a></td>
+              <td class="header_tab"><a class="header location" href='/location'>Location</a></td>
+              <td class="header_tab"><a class="header schedule" href='/schedule'>Schedule</a></td>
+              <td class="header_tab"><a class="header rsvp" href='/rsvp'>RSVP</a></td>
+              <td class="header_tab"><a class="header gifts" href=''>Gifts</a></td>
+            </tr>
+          </table>
+          <div class="horizontal_divide" style="width: 1000px;"></div>
+        </div>
+      
