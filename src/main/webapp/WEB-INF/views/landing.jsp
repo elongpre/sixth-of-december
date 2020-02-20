@@ -19,12 +19,12 @@
     var distance = wed_date - now;
     var seconds = Math.floor(distance/1000);
     if (distance > 0) {
-      document.getElementById("countdown").innerHTML = "Counting down! Time left: " + seconds + " seconds";
+      document.getElementById("countdown").innerHTML = "Counting down! Time left: " + seconds.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,') + " seconds";
     } else {
       var end_date = new Date(Date.UTC(2020, 11, 10, 7)).getTime();
       if (now < end_date) {  
         seconds = Math.floor((end_date - now) / 1000);
-        document.getElementById("countdown").innerHTML = "Beach house party for the next " + seconds + " seconds!";
+        document.getElementById("countdown").innerHTML = "Beach house party for the next " + seconds.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,') + " seconds!";
       } else {
         clearInterval(x);
         document.getElementById("countdown").innerHTML = "Too late! It's over. Check out some memories under Photos";

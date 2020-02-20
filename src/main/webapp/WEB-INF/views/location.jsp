@@ -14,7 +14,7 @@
   </div>
   <div class="site_content">
     <a href='https://goo.gl/maps/J1cBxBKfUR3EsikM7' target="_blank">
-    <img src="images/mapp.png" style="width: 100%;height:auto;"></a>
+    <img src="images/mapp.jpg" style="width: 100%;height:auto;"></a>
     </div>
   <div class="site_content">
      <p>If you bring a car:</p>
