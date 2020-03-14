@@ -64,3 +64,12 @@ td.footer_right {
 	border-bottom: 3px double darkgreen;
 	margin: auto;
 }
+
+.ydot {
+  height: 20px;
+  width: 20px;
+  background-color: gold;
+  border-radius: 50%;
+  display: inline-block;	
+}
+}

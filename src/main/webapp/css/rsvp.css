@@ -62,5 +62,5 @@ textarea.rsvp_comment {
 input[type="checkbox"] {
 	width: 30px;
 	height: 30px;
-	curson: pionter;
+	cursor: pointer;
 }
