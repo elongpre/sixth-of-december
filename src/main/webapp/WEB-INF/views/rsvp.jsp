@@ -2,6 +2,11 @@
 <div class="site_body">
   <div class="site_title">R&eacute;pondez S'il Vous Pla&icirc;t</div>
   <div class="site_content">
+    Please keep our <a href="/schedule">schedule</a> in mind as you make plans for the event.<br>
+    We plan to celebrate with Family on December 5th and 6th, with a small wedding ceremony on the 6th.<br>
+    We plan to celebrate with Friends on December 7th, 8th, and 9th.<br>
+  </div>
+  <div class="site_content">
     <table class="rsvp_table"><tr>
       <td class="rsvp_td"><button id="add_guest" class="rsvp_button add_guest" onclick="add_guest()" style="float:right;">Add Guest</button></td>
       <td class="rsvp_td vertical_line"></td>
