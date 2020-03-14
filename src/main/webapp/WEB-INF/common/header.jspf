@@ -22,7 +22,7 @@
               <td class="header_tab"><a class="header location" href='/location'>Location</a></td>
               <td class="header_tab"><a class="header schedule" href='/schedule'>Schedule</a></td>
               <td class="header_tab"><a class="header rsvp" href='/rsvp'>RSVP</a></td>
-              <td class="header_tab"><a class="header gifts" href=''>Gifts</a></td>
+              <td class="header_tab"><a class="header gifts" href='/gifts'>Gifts</a></td>
             </tr>
           </table>
           <div class="horizontal_divide" style="width: 1000px;"></div>
