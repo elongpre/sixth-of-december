@@ -4,10 +4,12 @@
   <div style="max-width: 80%; margin-left: auto; margin-right: auto;">
     <img src="images/splash.jpg" alt="Sage and Evan" style="width: 100%;height:auto;">
   </div>
-  <div class="site_title">Sage and Evan!</div>
+  <div class="site_title">You're Invited!</div>
   <div class="site_content">
-    <p>5th - 9th of December, 2020</p>
-    <p>Signing the Certificate on 6th of December, 2020</p>
+    <p>In lieu of a traditional wedding, we will be hosting for five days (5th - 9th of December, 2020)
+        at a lovely beach house in Oceanside, California. Family members will be invited to join us on
+        December 5th & 6th, while friends will be invited to join us on December 7th, 8th, & 9th.</p>
+    <p>Signing the Certificate on the 6th of December, 2020</p>
     <p id="countdown"></p>
   </div>
 </div>
