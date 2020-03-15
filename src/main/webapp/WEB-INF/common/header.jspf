@@ -5,6 +5,7 @@
     <link href="css/style.css" rel="stylesheet">
     <link href="css/header.css" rel="stylesheet">
     <link href="css/rsvp.css" rel="stylesheet">
+    <link href="css/modal.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Arizonia|Comfortaa&display=swap" rel="stylesheet">
     <%@ include file="header_style.jspf" %>
     <title>Oceanside Beach House</title>

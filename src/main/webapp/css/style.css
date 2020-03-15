@@ -51,6 +51,12 @@ td.footer_right {
 	text-align: center;
 	margin: 10px auto 10px auto;
 }
+.site_sub_title {
+	font-size: 36px;
+	font-family: 'Arizonia', cursive;
+	test-align: left;
+	margin: 10px auto 10px auto;
+}
 .site_content {
 	font-size: 20px;
 	font-family: 'Comfortaa', cursive;
@@ -71,5 +77,4 @@ td.footer_right {
   background-color: gold;
   border-radius: 50%;
   display: inline-block;	
-}
 }
