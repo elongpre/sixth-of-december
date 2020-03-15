@@ -1,5 +1,6 @@
 <%@ include file="../common/header.jspf" %>
-<div class="site_body">
+<link href="css/rsvp.css" rel="stylesheet">
+<div class="site_body" style="max-width: 1200px;">
   <div class="site_title">R&eacute;pondez S'il Vous Pla&icirc;t</div>
   <div class="site_content">
     Please keep our <a href="/schedule">schedule</a> in mind as you make plans for the event.<br>

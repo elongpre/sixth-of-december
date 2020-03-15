@@ -1,14 +1,17 @@
 <%@ include file="../common/header.jspf" %>
+<link href="css/modal.css" rel="stylesheet">
 <div class="site_body">
   <div class="site_title">Location Information</div>
   <div class="site_content">
     <div class="site_sub_title">The Beach House</div>
-    <img id="inside" class="src_image" src="images/house_inside.jpg" alt="inside" style="width:33%">
-    <img id="roof" class="src_image" src="images/house_roof.jpg" alt="roof" style="width:33%">
-    <img id="beach" class="src_image" src="images/house_beach.jpg" alt="beach" style="width:33%">
-    <div id="image_modal" class="modal">
-      <span class="close_button">&times;</span>
-      <img class="modal-content" id="modal_image">
+    <div style="margin: auto">
+      <img id="inside" class="src_image" src="images/house_inside.jpg" alt="inside">
+      <img id="roof" class="src_image" src="images/house_roof.jpg" alt="roof">
+      <img id="beach" class="src_image" src="images/house_beach.jpg" alt="beach">
+      <div id="image_modal" class="modal">
+        <span class="close_button">&times;</span>
+        <img class="modal-content" id="modal_image">
+      </div>
     </div>
     <p>Address: <a href='https://goo.gl/maps/mSRFiAHCLkp4V9F3A' target="_blank">1643 S Pacific St, Oceanside, CA 92054</a></p> 
     <p>There is <b>NO PARKING</b> at the beach house.</p>
@@ -35,8 +38,8 @@
           We've never tried any of them for ourselves; we are just informing you of things we might try if we brought a car to this party that 
           has no parking. So PLEASE use your best judgment, read all the street signs, don't break any laws, and get to our wedding safely :)</p>
       </td>
-      <td style="width: 40%;">
-        <a href='https://goo.gl/maps/J1cBxBKfUR3EsikM7' target="_blank"><img src="images/mapp.jpg" style="width: 100%;height:auto;"></a>
+      <td style="width: 40%; vertical-align: top;">
+        <a href='https://goo.gl/maps/J1cBxBKfUR3EsikM7' target="_blank"><img src="images/mapp.jpg" style="width: 100%;height:auto;padding-top:20px;"></a>
       </td>
     </tr></table>
   </div>

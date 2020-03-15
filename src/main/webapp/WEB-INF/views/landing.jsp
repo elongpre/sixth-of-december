@@ -5,7 +5,7 @@
   </div>
   <div class="site_title">You're Invited!</div>
   <div class="site_content">
-    <p>In lieu of a traditional wedding, we will be hosting for five days (5th - 9th of December, 2020)
+    <p>In lieu of a traditional wedding, we will be hosting a wedding event for five days (5th - 9th of December, 2020)
         at a lovely beach house in Oceanside, California. Family members will be invited to join us on
         December 5th & 6th, while friends will be invited to join us on December 7th, 8th, & 9th.</p>
     <p>Signing the Certificate on the 6th of December, 2020</p>

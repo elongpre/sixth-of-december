@@ -1,0 +1,9 @@
+td.sch_td {
+	padding: 10px 5px 10px 0;
+}
+td.date_td {
+	text-align: right;
+	vertical-align: top;
+	font-weight: bold;
+	width: 30%;
+} 

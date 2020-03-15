@@ -41,8 +41,8 @@ td.footer_right {
 
 .site_body {
 	min-height: 90vh;
-	margin-top: 20px;
-	margin-bottom: 100px;
+	margin: 20px auto 100px auto;
+	max-width: 1500px;
 }
 
 .site_title {
