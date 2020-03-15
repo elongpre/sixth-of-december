@@ -14,13 +14,14 @@
       </div>
     </div>
     <p>Address: <a href='https://goo.gl/maps/mSRFiAHCLkp4V9F3A' target="_blank">1643 S Pacific St, Oceanside, CA 92054</a></p> 
+	
     <p>There is <b>NO PARKING</b> at the beach house.</p>
   </div>
   <div class="site_content">
-    <div class="site_sub_title">Transportion options</div>
+    <div class="site_sub_title">Transportation Options</div>
     <table><tr>
       <td style="width: 60%; vertical-align: top;">    
-        <p><u>We suggest Public transportation!</u> In fact, that's how we plan to get there!</p>
+        <p><u>We suggest public transportation!</u> In fact, that's how we plan to get there!</p>
         <p>The COASTER train goes from downtown San Diego to the Oceanside Transit Center in about an hour.
           It costs $6.50 to go one way or $15 for a day pass. 
         </p>
@@ -28,7 +29,7 @@
         <p>From the Oceanside Transit Center, you can call a ride-share or walk the last 1.6 miles to the beach house.
            Take a look at the map to the right.</p>
         
-        <p><u>If you bring come by car</u></p>
+        <p><u>If you come by car:</u></p>
         <p>You <i>might</i> be able to find street parking in the neighborhood near the wedding beach house.
           You <i>might</i> be able to park at a nearby park, such as Buccaneer Beach Park or Lions Club Park
           (wow I said park a lot in that sentence). You <i>might</i> be able to park at the Moreno Street Park &amp; Ride bus stop.
