@@ -8,8 +8,10 @@
     <p>In lieu of a traditional wedding, we will be hosting a wedding event for five days (5th - 9th of December, 2020)
         at a lovely beach house in Oceanside, California. Family members will be invited to join us on
         December 5th & 6th, while friends will be invited to join us on December 7th, 8th, & 9th.</p>
-    <center><p>Signing the Certificate on the 6th of December, 2020</p>
-    <p id="countdown"></p></center>
+  </div>
+  <div class="site_content" style="text-align: center;"
+    <p>Signing the Certificate on the 6th of December, 2020</p>
+    <p id="countdown"></p>
   </div>
 </div>
 <%@ include file="../common/footer.jspf" %>
