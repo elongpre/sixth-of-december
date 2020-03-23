@@ -16,3 +16,10 @@ table.header_tab {
 
 .site_header {
 }
+
+.site_footer {
+	font-size: 16px;
+	font-family: 'Comfortaa', cursive;
+	max-width: 90%;
+	margin: 10px auto 10px auto;
+}

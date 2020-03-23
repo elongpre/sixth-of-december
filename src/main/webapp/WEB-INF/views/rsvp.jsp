@@ -4,8 +4,8 @@
   <div class="site_title">R&eacute;pondez S'il Vous Pla&icirc;t</div>
   <div class="site_content">
     Please keep our <a href="/schedule">schedule</a> in mind as you make plans for the event.<br>
-    We plan to celebrate with <b>family</b> on December 5th and 6th, with a small wedding ceremony on the 6th.<br>
-    We plan to celebrate with <b>friends</b> on December 7th, 8th, and 9th.<br>
+    We will celebrate with <b>family only</b> on December 5th and 6th, with a small wedding ceremony on the 6th.<br>
+    We will celebrate with <b>friends only</b> on December 7th, 8th, and 9th.<br>
   </div>
   <div class="site_content">
     <table class="rsvp_table"><tr>

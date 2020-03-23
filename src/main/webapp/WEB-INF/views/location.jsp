@@ -27,7 +27,8 @@
         </p>
         <p><a href='https://www.gonctd.com/services/coaster-commuter-rail/' target="_blank">Click here for more info about the COASTER train</a></p>
         <p>From the Oceanside Transit Center, you can call a ride-share or walk the last 1.6 miles to the beach house.
-           Take a look at the map to the right.</p>
+           Take a look at the map to the right.<br>
+           Ride share options include: <a href="https://www.uber.com">Uber</a> and <a href="https://www.lyft.com">Lyft</a>.</p>
         
         <p><u>If you come by car:</u></p>
         <p>You <i>might</i> be able to find street parking in the neighborhood near the wedding beach house.
