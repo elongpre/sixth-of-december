@@ -39,6 +39,7 @@ public class RSVPSubmittedServlet extends HttpServlet {
     rsvp.setProperty("7th", request.getParameter("7th"));
     rsvp.setProperty("8th", request.getParameter("8th"));
     rsvp.setProperty("9th", request.getParameter("9th"));
+    rsvp.setProperty("NotAttending", request.getParameter("NotAttending"));
     rsvp.setProperty("additional_comments", request.getParameter("additional_comments"));
     
     DatastoreService datastore = DatastoreServiceFactory.getDatastoreService();

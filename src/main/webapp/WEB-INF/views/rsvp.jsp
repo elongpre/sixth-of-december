@@ -22,11 +22,33 @@
           </td>
           <td class="rsvp_td vertical_line">
             <label>Days Attending:</label><br>
-            <input type="checkbox" id="5th" name="5th" value="5th"><label for="5th">5th of December</label><br>
-            <input type="checkbox" id="6th" name="6th" value="6th"><label for="6th">6th of December</label><br>
-            <input type="checkbox" id="7th" name="7th" value="7th"><label for="7th">7th of December</label><br>
-            <input type="checkbox" id="8th" name="8th" value="8th"><label for="8th">8th of December</label><br>
-            <input type="checkbox" id="9th" name="9th" value="9th"><label for="9th">9th of December</label><br>
+            <table>
+              <tr>
+                <td><input type="checkbox" id="5th" name="5th" value="5th"></td>
+                <td><label for="5th">5th of December</label></td>
+              </tr>
+              <tr>
+                <td><input type="checkbox" id="6th" name="6th" value="6th"></td>
+                <td><label for="6th">6th of December</label></td>
+              </tr>              
+              <tr>
+                <td><input type="checkbox" id="7th" name="7th" value="7th"></td>
+                <td><label for="7th">7th of December</label></td>
+              </tr>              
+              <tr>
+                <td><input type="checkbox" id="8th" name="8th" value="8th"></td>
+                <td><label for="8th">8th of December</label></td>
+              </tr>              
+              <tr>
+                <td><input type="checkbox" id="9th" name="9th" value="9th"></td>
+                <td><label for="9th">9th of December</label></td>
+              </tr>
+              <tr><td><br></td><td><br></td></tr>
+              <tr>
+                <td><input type="checkbox" id="NotAttending" name="NotAttending" value="NotAttending"></td>
+                <td><label for="NotAttending">Regretfully not Attending</label></td>
+              </tr>
+            </table>
           </td>
           <td class="rsvp_td_comment vertical_line">
             <label for="additional_comments">Additional Comments:</label><br>
