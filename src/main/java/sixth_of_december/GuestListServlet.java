@@ -42,6 +42,7 @@ public class GuestListServlet extends HttpServlet {
       entry += ","+(String)rsvp.getProperty("7th");
       entry += ","+(String)rsvp.getProperty("8th");
       entry += ","+(String)rsvp.getProperty("9th");
+      entry += ","+(String)rsvp.getProperty("NotAttending");
       entry += ","+(String)rsvp.getProperty("additional_comments");
       entry += ","+(String)rsvp.getProperty("guest1_name");
       entry += ","+(String)rsvp.getProperty("guest2_name");
