@@ -5,6 +5,7 @@
     <link href="css/style.css" rel="stylesheet">
     <link href="css/header.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Arizonia|Comfortaa&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Finger+Paint&display=swap" rel="stylesheet">  
     <%@ include file="header_style.jspf" %>
     <title>Oceanside Beach House</title>
   </head>
@@ -14,14 +15,17 @@
       <td class="body_left"></td>
       <td class="body_center">
         <div class="site_header"> 
-          <h1 class="site_header">Sage and Evan's Beach House Wedding</h1>
+          <h1 class="site_header_c">Sage and Evan's --<span class="site_header_d">Delayed</span>-- Wedding</h1>
+          <h1 class="site_header">Sage and Evan's<strike> Beach House </strike>Wedding</h1>
           <table class="header_tab">
             <tr>
+            <!-- 
               <td class="header_tab"><a class="header landing" href='/landing'>Home</a></td>
               <td class="header_tab"><a class="header location" href='/location'>Location</a></td>
               <td class="header_tab"><a class="header schedule" href='/schedule'>Schedule</a></td>
               <td class="header_tab"><a class="header rsvp" href='/rsvp'>RSVP</a></td>
               <td class="header_tab"><a class="header gifts" href='/gifts'>Gifts</a></td>
+            -->
             </tr>
           </table>
           <div class="horizontal_divide" style="width: 1000px;"></div>

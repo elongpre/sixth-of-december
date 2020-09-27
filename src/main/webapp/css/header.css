@@ -3,6 +3,24 @@ h1.site_header {
   font-size: 75px;
   font-family: 'Arizonia', cursive;
   text-align: center;
+  margin-top: -50px;
+}
+
+h1.site_header_c {
+	margin-bottom: 0px;
+  color: white;
+  font-size: 75px;
+  font-family: 'Arizonia', cursive;
+  text-align: center;
+}
+
+.site_header_d {
+  color: red;
+  opacity: 1;
+  font-size: 65px;
+  font-family: 'Finger Paint', cursive;
+  font-style: italic;
+  text-align: center;
 }
 
 td.header_tab {
